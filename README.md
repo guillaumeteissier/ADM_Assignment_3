@@ -7,7 +7,7 @@ The Goal of the homework was to build a search engine over the "best books ever"
 
 
 ## File Descriptions
-The repository contains this file:\
+The repository contains this file:
 1.  `ADM-HW3-Group6.ipynb`:
 
           > It contains the python notebook with the runned cells and the relative outputs for each query.
