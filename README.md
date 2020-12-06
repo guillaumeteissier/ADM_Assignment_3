@@ -8,6 +8,17 @@ The Goal of the homework was to build a search engine over the "best books ever"
 
 ## File Descriptions
 The repository contains this file:
-1.  `ADM-HW3-Group6.ipynb`:
+1. `ADM3_Q1.ipynb`:
 
-          > It contains the python notebook with the runned cells and the relative outputs for each query.
+          >It contains the code used for collecting data
+          
+2.  `ADM-HW3-Group6.zip`:
+
+          > It contains the python notebook with the runned cells and the relative outputs for Q2 to Q5
+          We had to zip it because the notebook was 29Mb so we couldn't upload it without zipping it.(The maximum was 25Mb)
+3.  `Screenshots`:
+
+          > A folder with screenshots of our notebook that we could not upload without zipping it
+          
+          
+         
